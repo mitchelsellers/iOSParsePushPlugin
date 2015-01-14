@@ -3,7 +3,7 @@
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
            id="com.parse.cordova.core.iospushplugin"
       version="0.1.0">
-    <name>phonegap-parse-plugin iOS</name>
+    <name>ParsePush iOS</name>
     <description>phonegap parse plugin for iOS</description>
 
     <js-module src="www/cdv-plugin-parse.js" name="iOSParsePlugin">
