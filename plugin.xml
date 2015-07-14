@@ -2,7 +2,7 @@
 
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
            id="com.mitchelsellers.iospushplugin"
-      version="0.1.3">
+      version="0.1.4">
     <name>ParsePush iOS</name>
     <description>phonegap parse plugin for iOS</description>
 
